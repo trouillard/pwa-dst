@@ -2,10 +2,6 @@
   "name": "DST",
   "short_name": "DST",
   "icons": [{
-    "src": "images/icons/favicon.ico",
-      "sizes": "64x64",
-      "type": "image/png"
-    }, {
     "src": "images/icons/icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png"
