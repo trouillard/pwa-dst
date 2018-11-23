@@ -17,7 +17,8 @@ var cacheName = 'dst';
 var filesToCache = [
   '/',
   '/index.html',
-  '/scripts/index.js'
+  '/scripts/index.js',
+  '/images/icons/favico.ico'
 ];
 
 self.addEventListener('install', function(e) {
